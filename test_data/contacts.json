@@ -1,0 +1,26 @@
+{
+  "TestUser": {
+    "public_key": "4eaa55734e9e2c47747285a95d3c3fa2a422843f02acc33ce1bed373f00d0170",
+    "trust_level": 0,
+    "first_seen": 1791303906,
+    "verified_at": null
+  },
+  "Alice": {
+    "public_key": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+    "trust_level": 0,
+    "first_seen": 1791303906,
+    "verified_at": null
+  },
+  "Bob": {
+    "public_key": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+    "trust_level": 0,
+    "first_seen": 1791303907,
+    "verified_at": null
+  },
+  "Charlie": {
+    "public_key": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+    "trust_level": 0,
+    "first_seen": 1791303907,
+    "verified_at": null
+  }
+}

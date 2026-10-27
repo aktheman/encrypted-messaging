@@ -1,0 +1,25 @@
+{
+  "networking": {
+    "default_host": "localhost",
+    "default_port": 8765,
+    "use_networking": false,
+    "secure": false,
+    "auth_method": "tofu",
+    "max_reconnect_attempts": 10,
+    "base_reconnect_delay": 1.0,
+    "max_reconnect_delay": 60.0
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file": null
+  },
+  "storage": {
+    "data_dir": "./data",
+    "queue_dir": "./queue",
+    "db_path": "./data/messaging.db"
+  },
+  "identity": {
+    "certificate_validity_days": 365
+  }
+}

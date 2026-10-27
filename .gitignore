@@ -1,0 +1,43 @@
+# Build outputs
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Project specific
+*.log
+*.db
+data/
+queue/
+certs/
+*.pem
+*.pfx
+
+# Test outputs
+*.tmp
+*.temp
+
+# Windows
+nul

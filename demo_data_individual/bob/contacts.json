@@ -1,0 +1,9 @@
+{
+  "Alice": {
+    "public_key": "1fd92e88434eaafced4ca8a4754d5d5b21cd9f2240aca359ffd8544201413e54",
+    "trust_level": 0,
+    "first_seen": 1792970126,
+    "verified_at": null,
+    "signing_key": "8fc4f4197e51a44d707a58b0620906a3e35e00d3749d10527409e1b9ee56c28c"
+  }
+}

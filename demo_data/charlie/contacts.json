@@ -1,0 +1,16 @@
+{
+  "Alice": {
+    "public_key": "2f0d233c4ec121e19eddd580a3ff89191d910319af4c252d4adced2a8000a82e",
+    "trust_level": 0,
+    "first_seen": 1792970134,
+    "verified_at": null,
+    "signing_key": "925b647a8c472cf1e89b182582a0cd89e494e106e4ca2d0d8a4be70a6ab68e12"
+  },
+  "Bob": {
+    "public_key": "97adb0abce54e9c574e1b7b65d07b4637c4303e7bc79d2bac530fcbdba7ed871",
+    "trust_level": 0,
+    "first_seen": 1792970134,
+    "verified_at": null,
+    "signing_key": "1024e4ce77349dd5bb07852409aacce9020242fd0b5d894d0a704f7dfca9514a"
+  }
+}

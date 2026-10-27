@@ -1,0 +1,15 @@
+{
+  "Alice": {
+    "public_key": "2f0d233c4ec121e19eddd580a3ff89191d910319af4c252d4adced2a8000a82e",
+    "trust_level": 0,
+    "first_seen": 1792970134,
+    "verified_at": null,
+    "signing_key": "925b647a8c472cf1e89b182582a0cd89e494e106e4ca2d0d8a4be70a6ab68e12"
+  },
+  "Charlie": {
+    "public_key": "17d24da2162fbebc5d827adb6023641d17fc9630c62cb0fb36e79fae3090b832",
+    "trust_level": 0,
+    "first_seen": 1792970134,
+    "verified_at": null
+  }
+}
